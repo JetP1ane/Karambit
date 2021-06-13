@@ -5,7 +5,7 @@ import sqlite3
 
 class DBHandler:
 
-    SQL_PATH = "C:\\Users\\James\\Documents\\Databases\\Karambit.db"    # TODO: Move to GLOBAL Bots Config File
+    SQL_PATH = "C:\\Karambit.db"    # TODO: Move to GLOBAL Bots Config File
     dbConn = object
     OPS = object
     USER = None
